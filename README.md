@@ -34,3 +34,6 @@ Dart
 Material Design
 Marquee (animação de texto)
 Arquitetura limpa e componentização
+
+<img width="1080" height="2280" alt="Screenshot_1759593463" src="https://github.com/user-attachments/assets/d13ce693-09e3-4cd3-97ba-632d64005cbf" />
+
