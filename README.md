@@ -1,7 +1,7 @@
 ⚽ Tsubasa Multiverse
 
 O **Tsubasa Multiverse** é um aplicativo desenvolvido em **Flutter** que traz para o mundo mobile o universo vibrante de *Captain Tsubasa*.  
-Mais do que um projeto de estudo, este app representa uma **evolução real de aprendizado** — tanto técnico quanto conceitual — em temas como **navegação, passagem de dados, componentização e arquitetura limpa**.
+Mais do que um projeto de estudo, este app representa uma **evolução real de aprendizado** — tanto técnico quanto conceitual em temas como *navegação, passagem de dados, componentização e arquitetura limpa*.
 ---
 ## Objetivo do Projeto
 
@@ -27,8 +27,7 @@ Essa experiência foi essencial para compreender melhor o **ciclo de navegação
 -  **Interface moderna e responsiva**, inspirada nas cores icônicas do anime  
 ---
 
-🛠️ Tecnologias Utilizadas
-
+# Tecnologias Utilizadas
 Flutter (SDK 3.7+)
 Dart
 Material Design
